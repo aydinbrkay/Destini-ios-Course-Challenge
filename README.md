@@ -1,4 +1,4 @@
-#Destini-ios-Course-Challenge
+# Destini-ios-Course-Challenge
 
 This is an ios course challenge I developed. In this app, a story is being told according to users choices.
 
